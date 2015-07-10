@@ -1,3 +1,9 @@
+##Running code
+To run the code in this repository unzip the included zip file (exdata-data-household_power_consumption.zip) into the cloned repo. All of the scripts 
+rely on the presence of the data in a file called household_power_consumption.txt
+
+
+
 ## Introduction
 
 This assignment uses data from
